@@ -157,7 +157,3 @@ streamlit run app.py
 
 This project demonstrates how **deep learning and audio signal processing** can be effectively combined to classify bird species from sound.
 The deployed system provides an intuitive interface for real-world usage and can be extended to include more species or real-time audio recording.
-
----
-
-⭐ *If you find this project useful, consider starring the repository!*
